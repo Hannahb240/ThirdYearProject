@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/mbax4hb4/ThirdYearProj/ThirdYearProjectGame/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/home/mbax4hb4/ThirdYearProj/ThirdYearProjectGame/android/res/values/strings.xml",
+                    "file": "/Users/Hannah/Desktop/ThirdYearProject/android/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 569
                 },
                 "from": {
-                    "file": "/home/mbax4hb4/ThirdYearProj/ThirdYearProjectGame/android/res/values/styles.xml",
+                    "file": "/Users/Hannah/Desktop/ThirdYearProject/android/res/values/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
