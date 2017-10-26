@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_9829cade1c0dfc376f20a5aee2893c7028747f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_089dee41ffaabec977f6a5c315d6605977edb411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_3d475ced98dd9e82d0d2c55f2ae0784f82a79928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_9829cade1c0dfc376f20a5aee2893c7028747f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23d6b90d355c33b9ab9160e8e7c565ceec0bae57">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/instant-run_3d6208427db3171dc3ef8d0c4fcc12a28085c2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_3d475ced98dd9e82d0d2c55f2ae0784f82a79928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="807525fd983209a47afb8b9ae5b288c165ce08fe">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e175093d846dba06b26da4fac60444d633b10e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hannah/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/Hannah/Desktop/ThirdYearProject/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_089dee41ffaabec977f6a5c315d6605977edb411.jar" />
+    </item>
+
+</items>
